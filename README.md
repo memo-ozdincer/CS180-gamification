@@ -1,5 +1,9 @@
 # CS180-gamification
-The first project we've had to do for ESC180/CS180, which was a Python implementation of a logic game/life simulation.
+The first project we didfor ESC180/CS180, which was a Python implementation of a logic game/life simulation.
+
+This implementation passed 332/346 test cases (~96%)
+![image](https://github.com/user-attachments/assets/dae8f843-48ba-473f-b7a2-f391c4c1a0ff)
+
 
 # Life Gamification Simulator
 **Due Date: September 29, 2024 3:00 PM**
