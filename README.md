@@ -2,6 +2,7 @@
 The first project we didfor ESC180/CS180, which was a Python implementation of a logic game/life simulation.
 
 This implementation passed 332/346 test cases (~96%)
+
 ![image](https://github.com/user-attachments/assets/dae8f843-48ba-473f-b7a2-f391c4c1a0ff)
 
 
